@@ -1,6 +1,6 @@
 #!/usr/bin/python3.6
 
-#This program is for checkc the number
+#This program is for check the number
 a = int(input("Enter the number:"))
 if a < 0:
     print(" Number is negative")
